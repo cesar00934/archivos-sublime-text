@@ -1,9 +1,0 @@
-# Ignorar archivos temporales de sistema
-*.log
-*.tmp
-*.bak
-*.swp
-*.DS_Store
-
-# Ignorar la carpeta de archivos de usuario temporal
-/AppData/Local/Temp
